@@ -4,6 +4,7 @@ Arduino-controlled lagering fridge with I2C screen and rotary encoder
 
 
 //**************************************************************//
+
 //  Name    : LAGERLOGGER! (With IC2 display)                            
 //  Author  : Paul Jarvey
 //  Date    : 5 Oct, 2013    
