@@ -24,3 +24,5 @@ Arduino-controlled lagering fridge with I2C screen and rotary encoder
 //          ::   - minCool (minutes) is the minimum length the compressor will be turned off, per duty cycle
                                              
 //****************************************************************
+
+Planned modifications include better use of the lighting features, better logging, and better programming of the lager cycle.
