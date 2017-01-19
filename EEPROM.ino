@@ -5,7 +5,6 @@ void EEPROM_recall(){
   EEPROM_readAnything(4, SvT);
   EEPROM_readAnything(8, Mode);
 //  EEPROM_readAnything(9, preset);
-//  EEPROM_readAnything(10, growphase);
   EEPROM_readAnything(11, daysAdj);
   EEPROM_readAnything(12, fanON);
   EEPROM_readAnything(13, fanOFF);
@@ -25,7 +24,6 @@ void EEPROM_record(){
   EEPROM_writeAnything(4, SvT);
   EEPROM_writeAnything(8, Mode);
 //  EEPROM_writeAnything(9, preset);
-//  EEPROM_writeAnything(10, growphase);
   EEPROM_writeAnything(11, daysAdj);
   EEPROM_writeAnything(12, fanON);
   EEPROM_writeAnything(13, fanOFF);
