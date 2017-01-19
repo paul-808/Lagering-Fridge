@@ -104,6 +104,7 @@ void SensorCheck(){
   }
 }
 
+// Credit to David Gaston for the code below this point - his OneWire projects were used as a base:
 
 float getTemp1(){
   if ( OneWire::crc8( addr1, 7) != addr1[7]) {
