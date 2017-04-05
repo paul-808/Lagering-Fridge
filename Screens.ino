@@ -4,7 +4,7 @@ void goHome (){
    buttonstate = false; 
    sensorTime2 = millis();
    Loading();
-   HomeSetup();
+   HomeSetup(); 
    menu = 0;
 }
 
